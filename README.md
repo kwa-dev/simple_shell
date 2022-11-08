@@ -12,5 +12,5 @@ By the end of this project, one should have a solid understanding on these conce
 * [X] Who is Ken Thompson
 * [ ] How does the shell work
 * [ ] What is a pid and a ppid
-* [ ]
+* [ ] How to manipulate the environment of the current process
                                          
