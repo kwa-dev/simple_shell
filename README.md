@@ -7,4 +7,10 @@ This is the end of sprint 1 project for the ALX software Engineering class. The 
 By the end of this project, one should have a solid understanding on these concepts, and should be able to explain them to ayone without the help of Gooogle
 
 * [X] Who designed and implemented the original Unix operating system.
+* [X] Who wrote the first version of the UNIX shell
+* [ ]
+* [ ]
+* [ ]
+* [ ]
+* [ ]
                                          
