@@ -10,7 +10,7 @@ By the end of this project, one should have a solid understanding on these conce
 * [X] Who wrote the first version of the UNIX shell
 * [X] Who invented the B programming language (the direct predecessor to the C programming language)
 * [X] Who is Ken Thompson
-* [X] How does the shell work
+* [ ] How does the shell work
 * [ ]
 * [ ]
                                          
