@@ -14,4 +14,5 @@ By the end of this project, one should have a solid understanding on these conce
 * [ ] What is a pid and a ppid
 * [ ] How to manipulate the environment of the current process
 * [ ] What is the difference between a function and a system call
+* [ ] How to create processes
                                          
