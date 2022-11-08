@@ -13,4 +13,5 @@ By the end of this project, one should have a solid understanding on these conce
 * [ ] How does the shell work
 * [ ] What is a pid and a ppid
 * [ ] How to manipulate the environment of the current process
+* [ ] What is the difference between a function and a system call
                                          
