@@ -64,3 +64,11 @@ wait3
 wait4
 write
 ~~~
+
+
+## Compilation
+The program should be compiled this way, without any error
+
+~~~bash
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
+~~~
