@@ -24,4 +24,43 @@ By the end of this project, one should have a solid understanding on these conce
 
 ## Resources 
 [What on Earth is the shell ?](https://en.wikipedia.org/wiki/Unix_shell)
+
 [The thompson shell ](https://en.wikipedia.org/wiki/Thompson_shell)
+
+
+## List of allowed functions and system calls 
+These are the  standard library functions and system calls that are allowed in the project
+
+~~~c
+access
+chdir
+close
+closedir
+execve
+exit
+_exit
+fflush
+fork
+free
+getcwd
+getline
+getpid
+isatty
+kill
+malloc
+open
+opendir
+perror
+read
+readdir
+signal
+stat
+lstat
+fstat
+strtok
+wait
+waitpid
+wait3
+wait4
+write
+~~~
