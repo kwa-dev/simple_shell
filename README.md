@@ -21,3 +21,6 @@ By the end of this project, one should have a solid understanding on these conce
 * [ ] How to suspend the execution of a process until one of its children terminates
 * [ ] What is ```EOF```  / “end-of-file”?
                                          
+
+
+[What on Earth is the shell ?](https://en.wikipedia.org/wiki/Unix_shell)
