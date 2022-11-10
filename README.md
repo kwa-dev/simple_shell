@@ -27,6 +27,8 @@ By the end of this project, one should have a solid understanding on these conce
 
 [The thompson shell ](https://en.wikipedia.org/wiki/Thompson_shell)
 
+[The shell and how it works](https://oskarth.com/unix01/)
+
 
 ## List of allowed functions and system calls 
 These are the  standard library functions and system calls that are allowed in the project
