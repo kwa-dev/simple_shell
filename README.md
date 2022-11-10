@@ -72,3 +72,17 @@ The program should be compiled this way, without any error
 ~~~bash
 gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
 ~~~
+
+## Testing
+
+The program should look like this in interactive mode 
+
+
+~~~bash
+$ ./hsh
+($) /bin/ls
+hsh main.c shell.c
+($)
+($) exit
+$
+~~~
