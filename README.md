@@ -22,5 +22,6 @@ By the end of this project, one should have a solid understanding on these conce
 * [ ] What is ```EOF```  / “end-of-file”?
                                          
 
-
+## Resources 
 [What on Earth is the shell ?](https://en.wikipedia.org/wiki/Unix_shell)
+[The thompson shell ](https://en.wikipedia.org/wiki/Thompson_shell)
