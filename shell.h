@@ -18,21 +18,21 @@
 #define BUF_FLUSH -1
 
 /* for command chaining */
-#define CMD_NORM0
-#define CMD_OR1
-#define CMD_AND2
-#define CMD_CHAIN3
+#define CMD_NORM	0
+#define CMD_OR		1
+#define CMD_AND		2
+#define CMD_CHAIN	3
 
 /* for convert_number() */
-#define CONVERT_LOWERCASE1
-#define CONVERT_UNSIGNED2
+#define CONVERT_LOWERCASE	1
+#define CONVERT_UNSIGNED	2
 
 /* 1 if using system getline() */
 #define USE_GETLINE 0
 #define USE_STRTOK 0
 
-#define HIST_FILE".simple_shell_history"
-#define HIST_MAX4096
+#define HIST_FILE	".simple_shell_history"
+#define HIST_MAX	4096
 
 extern char **environ;
 
@@ -52,7 +52,7 @@ typedef struct liststr
 
 /**
  *struct passinfo - contains pseudo-arguements to pass into a function,
- *allowing uniform prototype for function pointer struct
+ *		allowing uniform prototype for function pointer struct
  *@arg: a string generated from getline containing arguements
  *@argv: an array of strings generated from arg
  *@path: a string path for the current command
@@ -96,8 +96,8 @@ typedef struct passinfo
 } info_t;
 
 #define INFO_INIT \
-	{NULL, NULL, NULL, 0, 0, 0, 0, NULL, NULL, NULL, NULL, NULL, 0, 0, NULL, \
-			0, 0, 0}
+{NULL, NULL, NULL, 0, 0, 0, 0, NULL, NULL, NULL, NULL, NULL, 0, 0, NULL, \
+	0, 0, 0}
 
 /**
  *struct builtin - contains a builtin string and related function
